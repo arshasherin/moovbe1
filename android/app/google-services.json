@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "65460881753",
+    "project_id": "dropp-9f75f",
+    "storage_bucket": "dropp-9f75f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:65460881753:android:2f6d9e24e0dfdb0854a448",
+        "android_client_info": {
+          "package_name": "com.example.droppp_flutter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "65460881753-oh4bksint71tjr2kg0rvlir6h3j8t7rl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAAJf7X5B-Q1D_YM7qKd0SoFkPMz4uCprk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "65460881753-oh4bksint71tjr2kg0rvlir6h3j8t7rl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
